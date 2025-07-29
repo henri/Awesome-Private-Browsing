@@ -51,6 +51,13 @@ Accepting all contributions that surface useful content on the topic of private 
 
 --------
 
+## Wrapper Tools for Web Browsers
+- [SPB (AKA Start Private Browser)](https://github.com/henri/spb)
+
+--------
+
+
+
 ## Fingerprinting
 
 ### Canvas Fingerprinting
