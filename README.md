@@ -13,6 +13,7 @@ Accepting all contributions that surface useful content on the topic of private 
 - [Browser Extensions](#browser-extensions)
   - [Anti-Tracking](#anti-tracking)
   - [Security Extensions](#security-extensions)
+  - [Wrappers Tools for Web Browsers](#wrapper-tools-for-web-browsers)
 - [Fingerprinting](#fingerprinting)
   - [Canvas Fingerprinting](#canvas-fingerprinting)
   - [Counter Fingerprinting](#counter-fingerprinting)
@@ -52,7 +53,7 @@ Accepting all contributions that surface useful content on the topic of private 
 --------
 
 ## Wrapper Tools for Web Browsers
-- [SPB (AKA Start Private Browser)](https://github.com/henri/spb)
+- [SPB (AKA Start Private Browser)](https://github.com/henri/spb): A command line tool which simplifies starting independent web browser instances.
 
 --------
 
